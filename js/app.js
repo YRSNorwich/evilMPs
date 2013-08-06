@@ -1,4 +1,9 @@
-console.log(mpdata.length);
+// initialise by decorating each mp in the voting record with a person id
+$.each(mpdata, function(i, mp){
+	mp.person_id = _.find(directory,  function(mp_info){
+		return mp.name === mp_info.name;
+	}).person_id;
+});
 
 var policies = _.without(_.unique(
 	_.flatten(
@@ -6,7 +11,7 @@ var policies = _.without(_.unique(
 	)
 ), 'name');
 
-console.log(policies);
+
 
 var items = [];
 $.each(policies, function(i, pol){
@@ -21,15 +26,15 @@ $.each(policies, function(i, pol){
 $('.policies').append(items);
 
 $('body').on('change', '.policy input:not(.unsure)', function(evt){
-	console.log(evt);
 	var input = $(evt.currentTarget);
 	var policy = input.parents('.policy').data('policy');
 	console.log(policy);
 	console.log(input.val());
 	var mps_sorted = _.reject(_.sortBy(mpdata, function(mp){ return mp[policy]; }), function(mp){ return mp[policy] === null; });
-	console.log(mps_sorted);
 	var angels = (input.val() === '1') ? mps_sorted.slice(-3) : mps_sorted.slice(0,3);
 	var devils = (input.val() === '1') ? mps_sorted.slice(0,3) : mps_sorted.slice(-3);
-	console.log(angels[0].name);
-	console.log(devils[0].name);
+
+
+	console.log(angels[0].name, angels[0].person_id);
+
 });

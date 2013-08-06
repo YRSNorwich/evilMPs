@@ -52,7 +52,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Diane Abbott"
+        "name": "Diane Abbott"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -107,7 +107,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Debbie Abrahams"
+        "name": "Debbie Abrahams"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -162,7 +162,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nigel Adams"
+        "name": "Nigel Adams"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -217,7 +217,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Adam Afriyie"
+        "name": "Adam Afriyie"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -272,7 +272,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Bob Ainsworth"
+        "name": "Bob Ainsworth"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -327,7 +327,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Peter Aldous"
+        "name": "Peter Aldous"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -382,7 +382,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Danny Alexander"
+        "name": "Danny Alexander"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -437,7 +437,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Douglas Alexander"
+        "name": "Douglas Alexander"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -492,7 +492,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Heidi Alexander"
+        "name": "Heidi Alexander"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -547,7 +547,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Rushanara Ali"
+        "name": "Rushanara Ali"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -602,7 +602,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Graham Allen"
+        "name": "Graham Allen"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -657,7 +657,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Amess"
+        "name": "David Amess"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -712,7 +712,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Anderson"
+        "name": "David Anderson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -767,7 +767,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stuart Andrew"
+        "name": "Stuart Andrew"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -822,7 +822,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " James Arbuthnot"
+        "name": "James Arbuthnot"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -877,7 +877,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jonathan Ashworth"
+        "name": "Jonathan Ashworth"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -932,7 +932,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Ian Austin"
+        "name": "Ian Austin"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -987,7 +987,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Richard Bacon"
+        "name": "Richard Bacon"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1042,7 +1042,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Adrian Bailey"
+        "name": "Adrian Bailey"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1097,7 +1097,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " William Bain"
+        "name": "William Bain"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1152,7 +1152,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Norman Baker"
+        "name": "Norman Baker"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1207,7 +1207,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Steven Baker"
+        "name": "Steven Baker"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1262,7 +1262,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tony Baldry"
+        "name": "Tony Baldry"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1317,7 +1317,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Harriett Baldwin"
+        "name": "Harriett Baldwin"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1372,7 +1372,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Edward Balls"
+        "name": "Edward Balls"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1427,7 +1427,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gordon Banks"
+        "name": "Gordon Banks"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1482,7 +1482,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stephen Barclay"
+        "name": "Stephen Barclay"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1537,7 +1537,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gregory Barker"
+        "name": "Gregory Barker"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1592,7 +1592,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Baron"
+        "name": "John Baron"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1647,7 +1647,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kevin Barron"
+        "name": "Kevin Barron"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1702,7 +1702,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gavin Barwell"
+        "name": "Gavin Barwell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1757,7 +1757,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Hugh Bayley"
+        "name": "Hugh Bayley"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1812,7 +1812,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Guto Bebb"
+        "name": "Guto Bebb"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1867,7 +1867,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Margaret Beckett"
+        "name": "Margaret Beckett"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1922,7 +1922,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Anne Begg"
+        "name": "Anne Begg"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -1977,7 +1977,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alan Beith"
+        "name": "Alan Beith"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2032,7 +2032,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Henry Bellingham"
+        "name": "Henry Bellingham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2087,7 +2087,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Hilary Benn"
+        "name": "Hilary Benn"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2142,7 +2142,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Joe Benton"
+        "name": "Joe Benton"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2197,7 +2197,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Richard Benyon"
+        "name": "Richard Benyon"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2252,7 +2252,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Bercow"
+        "name": "John Bercow"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2307,7 +2307,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Paul Beresford"
+        "name": "Paul Beresford"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2362,7 +2362,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Luciana Berger"
+        "name": "Luciana Berger"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2417,7 +2417,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jake Berry"
+        "name": "Jake Berry"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2472,7 +2472,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Clive Betts"
+        "name": "Clive Betts"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2527,7 +2527,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andrew Bingham"
+        "name": "Andrew Bingham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2582,7 +2582,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Brian Binley"
+        "name": "Brian Binley"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2637,7 +2637,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gordon Birtwistle"
+        "name": "Gordon Birtwistle"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2692,7 +2692,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Bob Blackman"
+        "name": "Bob Blackman"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2747,7 +2747,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Roberta Blackman-Woods"
+        "name": "Roberta Blackman-Woods"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2802,7 +2802,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nicola Blackwood"
+        "name": "Nicola Blackwood"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2857,7 +2857,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Hazel Blears"
+        "name": "Hazel Blears"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2912,7 +2912,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tom Blenkinsop"
+        "name": "Tom Blenkinsop"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -2967,7 +2967,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Paul Blomfield"
+        "name": "Paul Blomfield"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3022,7 +3022,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Blunkett"
+        "name": "David Blunkett"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3077,7 +3077,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Crispin Blunt"
+        "name": "Crispin Blunt"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3132,7 +3132,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nicholas Boles"
+        "name": "Nicholas Boles"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3187,7 +3187,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Peter Bone"
+        "name": "Peter Bone"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3242,7 +3242,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Peter Bottomley"
+        "name": "Peter Bottomley"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3297,7 +3297,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Karen Bradley"
+        "name": "Karen Bradley"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3352,7 +3352,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Ben Bradshaw"
+        "name": "Ben Bradshaw"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3407,7 +3407,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Graham Brady"
+        "name": "Graham Brady"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3462,7 +3462,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tom Brake"
+        "name": "Tom Brake"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3517,7 +3517,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Angie Bray"
+        "name": "Angie Bray"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3572,7 +3572,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Julian Brazier"
+        "name": "Julian Brazier"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3627,7 +3627,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kevin Brennan"
+        "name": "Kevin Brennan"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3682,7 +3682,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andrew Bridgen"
+        "name": "Andrew Bridgen"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3737,7 +3737,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Steve Brine"
+        "name": "Steve Brine"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3792,7 +3792,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " James Brokenshire"
+        "name": "James Brokenshire"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3847,7 +3847,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Annette Brooke"
+        "name": "Annette Brooke"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3902,7 +3902,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gordon Brown"
+        "name": "Gordon Brown"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -3957,7 +3957,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Lyn Brown"
+        "name": "Lyn Brown"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4012,7 +4012,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nick Brown"
+        "name": "Nick Brown"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4067,7 +4067,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Russell Brown"
+        "name": "Russell Brown"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4122,7 +4122,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jeremy Browne"
+        "name": "Jeremy Browne"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4177,7 +4177,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Fiona Bruce"
+        "name": "Fiona Bruce"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4232,7 +4232,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Malcolm Bruce"
+        "name": "Malcolm Bruce"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4287,7 +4287,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Chris Bryant"
+        "name": "Chris Bryant"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4342,7 +4342,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Karen Buck"
+        "name": "Karen Buck"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4397,7 +4397,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Robert Buckland"
+        "name": "Robert Buckland"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4452,7 +4452,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Richard Burden"
+        "name": "Richard Burden"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4507,7 +4507,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Aidan Burley"
+        "name": "Aidan Burley"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4562,7 +4562,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andy Burnham"
+        "name": "Andy Burnham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4617,7 +4617,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Conor Burns"
+        "name": "Conor Burns"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4672,7 +4672,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Simon Burns"
+        "name": "Simon Burns"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4727,7 +4727,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Burrowes"
+        "name": "David Burrowes"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4782,7 +4782,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Paul Burstow"
+        "name": "Paul Burstow"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4837,7 +4837,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alistair Burt"
+        "name": "Alistair Burt"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4892,7 +4892,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Lorely Burt"
+        "name": "Lorely Burt"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -4947,7 +4947,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Dan Byles"
+        "name": "Dan Byles"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5002,7 +5002,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Liam Byrne"
+        "name": "Liam Byrne"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5057,7 +5057,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Vincent Cable"
+        "name": "Vincent Cable"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5112,7 +5112,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alun Cairns"
+        "name": "Alun Cairns"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5167,7 +5167,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Cameron"
+        "name": "David Cameron"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5222,7 +5222,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alan Campbell"
+        "name": "Alan Campbell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5277,7 +5277,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gregory Campbell"
+        "name": "Gregory Campbell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5332,7 +5332,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Menzies Campbell"
+        "name": "Menzies Campbell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5387,7 +5387,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Ronnie Campbell"
+        "name": "Ronnie Campbell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5442,7 +5442,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alistair Carmichael"
+        "name": "Alistair Carmichael"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5497,7 +5497,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Neil Carmichael"
+        "name": "Neil Carmichael"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5552,7 +5552,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Douglas Carswell"
+        "name": "Douglas Carswell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5607,7 +5607,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " William Cash"
+        "name": "William Cash"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5662,7 +5662,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Martin Caton"
+        "name": "Martin Caton"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5717,7 +5717,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Sarah Champion"
+        "name": "Sarah Champion"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5772,7 +5772,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jenny Chapman"
+        "name": "Jenny Chapman"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5827,7 +5827,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Rehman Chishti"
+        "name": "Rehman Chishti"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5882,7 +5882,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Christopher Chope"
+        "name": "Christopher Chope"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5937,7 +5937,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " James Clappison"
+        "name": "James Clappison"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -5992,7 +5992,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Greg Clark"
+        "name": "Greg Clark"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6047,7 +6047,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Katy Clark"
+        "name": "Katy Clark"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6102,7 +6102,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kenneth Clarke"
+        "name": "Kenneth Clarke"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6157,7 +6157,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tom Clarke"
+        "name": "Tom Clarke"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6212,7 +6212,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nicholas Clegg"
+        "name": "Nicholas Clegg"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6267,7 +6267,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Geoffrey Clifton-Brown"
+        "name": "Geoffrey Clifton-Brown"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6322,7 +6322,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Ann Clwyd"
+        "name": "Ann Clwyd"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6377,7 +6377,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Vernon Coaker"
+        "name": "Vernon Coaker"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6432,7 +6432,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Ann Coffey"
+        "name": "Ann Coffey"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6487,7 +6487,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Therese Coffey"
+        "name": "Therese Coffey"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6542,7 +6542,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Damian Collins"
+        "name": "Damian Collins"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6597,7 +6597,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Oliver Colvile"
+        "name": "Oliver Colvile"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6652,7 +6652,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Michael Connarty"
+        "name": "Michael Connarty"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6707,7 +6707,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Rosie Cooper"
+        "name": "Rosie Cooper"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6762,7 +6762,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Yvette Cooper"
+        "name": "Yvette Cooper"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6817,7 +6817,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jeremy Corbyn"
+        "name": "Jeremy Corbyn"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6872,7 +6872,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Geoffrey Cox"
+        "name": "Geoffrey Cox"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6927,7 +6927,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stephen Crabb"
+        "name": "Stephen Crabb"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -6982,7 +6982,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Crausby"
+        "name": "David Crausby"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7037,7 +7037,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mary Creagh"
+        "name": "Mary Creagh"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7092,7 +7092,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stella Creasy"
+        "name": "Stella Creasy"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7147,7 +7147,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Michael Crockart"
+        "name": "Michael Crockart"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7202,7 +7202,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tracey Crouch"
+        "name": "Tracey Crouch"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7257,7 +7257,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jon Cruddas"
+        "name": "Jon Cruddas"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7312,7 +7312,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Cryer"
+        "name": "John Cryer"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7367,7 +7367,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alex Cunningham"
+        "name": "Alex Cunningham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7422,7 +7422,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jim Cunningham"
+        "name": "Jim Cunningham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7477,7 +7477,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tony Cunningham"
+        "name": "Tony Cunningham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7532,7 +7532,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Margaret Curran"
+        "name": "Margaret Curran"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7587,7 +7587,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nicholas Dakin"
+        "name": "Nicholas Dakin"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7642,7 +7642,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Simon Danczuk"
+        "name": "Simon Danczuk"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7697,7 +7697,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alistair Darling"
+        "name": "Alistair Darling"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7752,7 +7752,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Edward Davey"
+        "name": "Edward Davey"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7807,7 +7807,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Wayne David"
+        "name": "Wayne David"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7862,7 +7862,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Ian Davidson"
+        "name": "Ian Davidson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7917,7 +7917,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Davies"
+        "name": "David Davies"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -7972,7 +7972,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Geraint Davies"
+        "name": "Geraint Davies"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8027,7 +8027,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Glyn Davies"
+        "name": "Glyn Davies"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8082,7 +8082,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Philip Davies"
+        "name": "Philip Davies"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8137,7 +8137,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Davis"
+        "name": "David Davis"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8192,7 +8192,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nick de Bois"
+        "name": "Nick de Bois"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8247,7 +8247,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gloria De Piero"
+        "name": "Gloria De Piero"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8302,7 +8302,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Denham"
+        "name": "John Denham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8357,7 +8357,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Caroline Dinenage"
+        "name": "Caroline Dinenage"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8412,7 +8412,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jonathan Djanogly"
+        "name": "Jonathan Djanogly"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8467,7 +8467,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jim Dobbin"
+        "name": "Jim Dobbin"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8522,7 +8522,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Frank Dobson"
+        "name": "Frank Dobson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8577,7 +8577,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Thomas Docherty"
+        "name": "Thomas Docherty"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8632,7 +8632,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nigel Dodds"
+        "name": "Nigel Dodds"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8687,7 +8687,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Pat Doherty"
+        "name": "Pat Doherty"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8742,7 +8742,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jeffrey M Donaldson"
+        "name": "Jeffrey M Donaldson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8797,7 +8797,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Brian H Donohoe"
+        "name": "Brian H Donohoe"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8852,7 +8852,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Frank Doran"
+        "name": "Frank Doran"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8907,7 +8907,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stephen Dorrell"
+        "name": "Stephen Dorrell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -8962,7 +8962,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nadine Dorries"
+        "name": "Nadine Dorries"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9017,7 +9017,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stephen Doughty"
+        "name": "Stephen Doughty"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9072,7 +9072,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jim Dowd"
+        "name": "Jim Dowd"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9127,7 +9127,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gemma Doyle"
+        "name": "Gemma Doyle"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9182,7 +9182,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jackie Doyle-Price"
+        "name": "Jackie Doyle-Price"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9237,7 +9237,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Richard Drax"
+        "name": "Richard Drax"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9292,7 +9292,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jack Dromey"
+        "name": "Jack Dromey"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9347,7 +9347,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " James Duddridge"
+        "name": "James Duddridge"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9402,7 +9402,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Michael Dugher"
+        "name": "Michael Dugher"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9457,7 +9457,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alan Duncan"
+        "name": "Alan Duncan"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9512,7 +9512,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Iain Duncan Smith"
+        "name": "Iain Duncan Smith"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9567,7 +9567,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Philip Dunne"
+        "name": "Philip Dunne"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9622,7 +9622,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Durkan"
+        "name": "Mark Durkan"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9677,7 +9677,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Angela Eagle"
+        "name": "Angela Eagle"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9732,7 +9732,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Maria Eagle"
+        "name": "Maria Eagle"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9787,7 +9787,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jonathan Edwards"
+        "name": "Jonathan Edwards"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9842,7 +9842,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Clive Efford"
+        "name": "Clive Efford"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9897,7 +9897,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Julie Elliott"
+        "name": "Julie Elliott"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -9952,7 +9952,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Michael Ellis"
+        "name": "Michael Ellis"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10007,7 +10007,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jane Ellison"
+        "name": "Jane Ellison"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10062,7 +10062,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Louise Ellman"
+        "name": "Louise Ellman"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10117,7 +10117,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tobias Ellwood"
+        "name": "Tobias Ellwood"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10172,7 +10172,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Charlie Elphicke"
+        "name": "Charlie Elphicke"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10227,7 +10227,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Natascha Engel"
+        "name": "Natascha Engel"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10282,7 +10282,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Bill Esterson"
+        "name": "Bill Esterson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10337,7 +10337,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " George Eustice"
+        "name": "George Eustice"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10392,7 +10392,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Chris Evans"
+        "name": "Chris Evans"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10447,7 +10447,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Graham Evans"
+        "name": "Graham Evans"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10502,7 +10502,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jonathan Evans"
+        "name": "Jonathan Evans"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10557,7 +10557,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nigel Evans"
+        "name": "Nigel Evans"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10612,7 +10612,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Evennett"
+        "name": "David Evennett"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10667,7 +10667,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Michael Fabricant"
+        "name": "Michael Fabricant"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10722,7 +10722,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Michael Fallon"
+        "name": "Michael Fallon"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10777,7 +10777,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Paul Farrelly"
+        "name": "Paul Farrelly"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10832,7 +10832,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tim Farron"
+        "name": "Tim Farron"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10887,7 +10887,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Lynne Featherstone"
+        "name": "Lynne Featherstone"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10942,7 +10942,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Frank Field"
+        "name": "Frank Field"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -10997,7 +10997,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Field"
+        "name": "Mark Field"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11052,7 +11052,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jim Fitzpatrick"
+        "name": "Jim Fitzpatrick"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11107,7 +11107,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Robert Flello"
+        "name": "Robert Flello"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11162,7 +11162,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Caroline Flint"
+        "name": "Caroline Flint"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11217,7 +11217,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Paul Flynn"
+        "name": "Paul Flynn"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11272,7 +11272,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Don Foster"
+        "name": "Don Foster"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11327,7 +11327,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Yvonne Fovargue"
+        "name": "Yvonne Fovargue"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11382,7 +11382,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Liam Fox"
+        "name": "Liam Fox"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11437,7 +11437,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Hywel Francis"
+        "name": "Hywel Francis"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11492,7 +11492,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Francois"
+        "name": "Mark Francois"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11547,7 +11547,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " George Freeman"
+        "name": "George Freeman"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11602,7 +11602,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mike Freer"
+        "name": "Mike Freer"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11657,7 +11657,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Lorraine Fullbrook"
+        "name": "Lorraine Fullbrook"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11712,7 +11712,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Richard Fuller"
+        "name": "Richard Fuller"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11767,7 +11767,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Roger Gale"
+        "name": "Roger Gale"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11822,7 +11822,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " George Galloway"
+        "name": "George Galloway"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11877,7 +11877,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mike Gapes"
+        "name": "Mike Gapes"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11932,7 +11932,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Barry Gardiner"
+        "name": "Barry Gardiner"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -11987,7 +11987,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Edward Garnier"
+        "name": "Edward Garnier"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12042,7 +12042,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Garnier"
+        "name": "Mark Garnier"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12097,7 +12097,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Gauke"
+        "name": "David Gauke"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12152,7 +12152,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andrew George"
+        "name": "Andrew George"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12207,7 +12207,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nick Gibb"
+        "name": "Nick Gibb"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12262,7 +12262,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stephen Gilbert"
+        "name": "Stephen Gilbert"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12317,7 +12317,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Michelle Gildernew"
+        "name": "Michelle Gildernew"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12372,7 +12372,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Cheryl Gillan"
+        "name": "Cheryl Gillan"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12427,7 +12427,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Sheila Gilmore"
+        "name": "Sheila Gilmore"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12482,7 +12482,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Pat Glass"
+        "name": "Pat Glass"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12537,7 +12537,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Glen"
+        "name": "John Glen"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12592,7 +12592,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mary Glindon"
+        "name": "Mary Glindon"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12647,7 +12647,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Roger Godsiff"
+        "name": "Roger Godsiff"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12702,7 +12702,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Paul Goggins"
+        "name": "Paul Goggins"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12757,7 +12757,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Zac Goldsmith"
+        "name": "Zac Goldsmith"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12812,7 +12812,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Helen Goodman"
+        "name": "Helen Goodman"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12867,7 +12867,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Robert Goodwill"
+        "name": "Robert Goodwill"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12922,7 +12922,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Michael Gove"
+        "name": "Michael Gove"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -12977,7 +12977,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Richard Graham"
+        "name": "Richard Graham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13032,7 +13032,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Helen Grant"
+        "name": "Helen Grant"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13087,7 +13087,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " James Gray"
+        "name": "James Gray"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13142,7 +13142,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Chris Grayling"
+        "name": "Chris Grayling"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13197,7 +13197,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tom Greatrex"
+        "name": "Tom Greatrex"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13252,7 +13252,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Damian Green"
+        "name": "Damian Green"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13307,7 +13307,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kate Green"
+        "name": "Kate Green"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13362,7 +13362,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Justine Greening"
+        "name": "Justine Greening"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13417,7 +13417,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Lilian Greenwood"
+        "name": "Lilian Greenwood"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13472,7 +13472,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Dominic Grieve"
+        "name": "Dominic Grieve"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13527,7 +13527,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nia Griffith"
+        "name": "Nia Griffith"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13582,7 +13582,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andrew Griffiths"
+        "name": "Andrew Griffiths"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13637,7 +13637,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Ben Gummer"
+        "name": "Ben Gummer"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13692,7 +13692,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andrew Gwynne"
+        "name": "Andrew Gwynne"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13747,7 +13747,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Sam Gyimah"
+        "name": "Sam Gyimah"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13802,7 +13802,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " William Hague"
+        "name": "William Hague"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13857,7 +13857,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Peter Hain"
+        "name": "Peter Hain"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13912,7 +13912,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Robert Halfon"
+        "name": "Robert Halfon"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -13967,7 +13967,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Duncan Hames"
+        "name": "Duncan Hames"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14022,7 +14022,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Hamilton"
+        "name": "David Hamilton"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14077,7 +14077,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Fabian Hamilton"
+        "name": "Fabian Hamilton"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14132,7 +14132,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Philip Hammond"
+        "name": "Philip Hammond"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14187,7 +14187,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stephen Hammond"
+        "name": "Stephen Hammond"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14242,7 +14242,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Matthew Hancock"
+        "name": "Matthew Hancock"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14297,7 +14297,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mike Hancock"
+        "name": "Mike Hancock"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14352,7 +14352,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Greg Hands"
+        "name": "Greg Hands"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14407,7 +14407,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Hanson"
+        "name": "David Hanson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14462,7 +14462,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Harriet Harman"
+        "name": "Harriet Harman"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14517,7 +14517,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Harper"
+        "name": "Mark Harper"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14572,7 +14572,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Richard Harrington"
+        "name": "Richard Harrington"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14627,7 +14627,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Rebecca Harris"
+        "name": "Rebecca Harris"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14682,7 +14682,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tom Harris"
+        "name": "Tom Harris"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14737,7 +14737,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Simon Hart"
+        "name": "Simon Hart"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14792,7 +14792,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nick Harvey"
+        "name": "Nick Harvey"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14847,7 +14847,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alan Haselhurst"
+        "name": "Alan Haselhurst"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14902,7 +14902,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Dai Havard"
+        "name": "Dai Havard"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -14957,7 +14957,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Hayes"
+        "name": "John Hayes"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15012,7 +15012,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Oliver Heald"
+        "name": "Oliver Heald"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15067,7 +15067,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Healey"
+        "name": "John Healey"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15122,7 +15122,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Heath"
+        "name": "David Heath"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15177,7 +15177,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Chris Heaton-Harris"
+        "name": "Chris Heaton-Harris"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15232,7 +15232,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Hemming"
+        "name": "John Hemming"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15287,7 +15287,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gordon Henderson"
+        "name": "Gordon Henderson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15342,7 +15342,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Hendrick"
+        "name": "Mark Hendrick"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15397,7 +15397,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Charles Hendry"
+        "name": "Charles Hendry"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15452,7 +15452,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stephen Hepburn"
+        "name": "Stephen Hepburn"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15507,7 +15507,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nick Herbert"
+        "name": "Nick Herbert"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15562,7 +15562,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Lady Hermon"
+        "name": "Lady Hermon"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15617,7 +15617,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Heyes"
+        "name": "David Heyes"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15672,7 +15672,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Meg Hillier"
+        "name": "Meg Hillier"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15727,7 +15727,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Julie Hilling"
+        "name": "Julie Hilling"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15782,7 +15782,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Damian Hinds"
+        "name": "Damian Hinds"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15837,7 +15837,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Hoban"
+        "name": "Mark Hoban"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15892,7 +15892,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Margaret Hodge"
+        "name": "Margaret Hodge"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -15947,7 +15947,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Sharon Hodgson"
+        "name": "Sharon Hodgson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16002,7 +16002,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kate Hoey"
+        "name": "Kate Hoey"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16057,7 +16057,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " George Hollingbery"
+        "name": "George Hollingbery"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16112,7 +16112,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Philip Hollobone"
+        "name": "Philip Hollobone"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16167,7 +16167,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Adam Holloway"
+        "name": "Adam Holloway"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16222,7 +16222,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jimmy Hood"
+        "name": "Jimmy Hood"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16277,7 +16277,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kelvin Hopkins"
+        "name": "Kelvin Hopkins"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16332,7 +16332,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kris Hopkins"
+        "name": "Kris Hopkins"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16387,7 +16387,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Martin Horwood"
+        "name": "Martin Horwood"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16442,7 +16442,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stewart Hosie"
+        "name": "Stewart Hosie"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16497,7 +16497,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " George Howarth"
+        "name": "George Howarth"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16552,7 +16552,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gerald Howarth"
+        "name": "Gerald Howarth"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16607,7 +16607,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Howell"
+        "name": "John Howell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16662,7 +16662,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Lindsay Hoyle"
+        "name": "Lindsay Hoyle"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16717,7 +16717,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Simon Hughes"
+        "name": "Simon Hughes"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16772,7 +16772,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jeremy Hunt"
+        "name": "Jeremy Hunt"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16827,7 +16827,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tristram Hunt"
+        "name": "Tristram Hunt"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16882,7 +16882,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Hunter"
+        "name": "Mark Hunter"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16937,7 +16937,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Julian Huppert"
+        "name": "Julian Huppert"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -16992,7 +16992,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Nick Hurd"
+        "name": "Nick Hurd"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17047,7 +17047,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Huw Irranca-Davies"
+        "name": "Huw Irranca-Davies"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17102,7 +17102,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Glenda Jackson"
+        "name": "Glenda Jackson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17157,7 +17157,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Stewart Jackson"
+        "name": "Stewart Jackson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17212,7 +17212,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Margot James"
+        "name": "Margot James"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17267,7 +17267,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Si\u00e2n James"
+        "name": "Si\u00e2n James"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17322,7 +17322,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Cathy Jamieson"
+        "name": "Cathy Jamieson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17377,7 +17377,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Dan Jarvis"
+        "name": "Dan Jarvis"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17432,7 +17432,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Sajid Javid"
+        "name": "Sajid Javid"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17487,7 +17487,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Bernard Jenkin"
+        "name": "Bernard Jenkin"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17542,7 +17542,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Alan Johnson"
+        "name": "Alan Johnson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17597,7 +17597,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Diana Johnson"
+        "name": "Diana Johnson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17652,7 +17652,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gareth Johnson"
+        "name": "Gareth Johnson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17707,7 +17707,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jo Johnson"
+        "name": "Jo Johnson"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17762,7 +17762,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andrew Jones"
+        "name": "Andrew Jones"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17817,7 +17817,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Jones"
+        "name": "David Jones"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17872,7 +17872,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Graham Jones"
+        "name": "Graham Jones"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17927,7 +17927,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Helen Jones"
+        "name": "Helen Jones"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -17982,7 +17982,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kevan Jones"
+        "name": "Kevan Jones"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18037,7 +18037,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Marcus Jones"
+        "name": "Marcus Jones"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18092,7 +18092,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Susan Elan Jones"
+        "name": "Susan Elan Jones"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18147,7 +18147,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Tessa Jowell"
+        "name": "Tessa Jowell"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18202,7 +18202,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Eric Joyce"
+        "name": "Eric Joyce"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18257,7 +18257,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Gerald Kaufman"
+        "name": "Gerald Kaufman"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18312,7 +18312,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Daniel Kawczynski"
+        "name": "Daniel Kawczynski"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18367,7 +18367,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Barbara Keeley"
+        "name": "Barbara Keeley"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18422,7 +18422,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Chris Kelly"
+        "name": "Chris Kelly"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18477,7 +18477,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Liz Kendall"
+        "name": "Liz Kendall"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18532,7 +18532,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Charles Kennedy"
+        "name": "Charles Kennedy"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18587,7 +18587,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Sadiq Khan"
+        "name": "Sadiq Khan"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18642,7 +18642,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Simon Kirby"
+        "name": "Simon Kirby"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18697,7 +18697,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Greg Knight"
+        "name": "Greg Knight"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18752,7 +18752,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Kwasi Kwarteng"
+        "name": "Kwasi Kwarteng"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18807,7 +18807,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Eleanor Laing"
+        "name": "Eleanor Laing"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18862,7 +18862,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Norman Lamb"
+        "name": "Norman Lamb"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18917,7 +18917,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Lammy"
+        "name": "David Lammy"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -18972,7 +18972,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Lancaster"
+        "name": "Mark Lancaster"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19027,7 +19027,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andrew Lansley"
+        "name": "Andrew Lansley"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19082,7 +19082,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Pauline Latham"
+        "name": "Pauline Latham"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19137,7 +19137,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Ian Lavery"
+        "name": "Ian Lavery"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19192,7 +19192,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " David Laws"
+        "name": "David Laws"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19247,7 +19247,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Mark Lazarowicz"
+        "name": "Mark Lazarowicz"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19302,7 +19302,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Andrea Leadsom"
+        "name": "Andrea Leadsom"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19357,7 +19357,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jessica Lee"
+        "name": "Jessica Lee"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19412,7 +19412,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Phillip Lee"
+        "name": "Phillip Lee"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19467,7 +19467,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " John Leech"
+        "name": "John Leech"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19522,7 +19522,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Jeremy Lefroy"
+        "name": "Jeremy Lefroy"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19577,7 +19577,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Edward Leigh"
+        "name": "Edward Leigh"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19632,7 +19632,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Charlotte Leslie"
+        "name": "Charlotte Leslie"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19687,7 +19687,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Christopher Leslie"
+        "name": "Christopher Leslie"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": null,
@@ -19742,7 +19742,7 @@ var mpdata = [
         "University education fees - Should be free": null,
         "Voting age - Reduce to 16": null,
         "War - Parliamentary authority not necessary": null,
-        "name": " Oliver Letwin"
+        "name": "Oliver Letwin"
     },
     {
         "Abortion, Embryology and Euthanasia- Against": 5,

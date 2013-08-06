@@ -1,4 +1,4 @@
-[{
+var directory = [{
   "member_id" : "40323",
   "person_id" : "24709",
   "name" : "Bridget Phillipson",
@@ -4787,4 +4787,4 @@
   "name" : "Emma Lewell-Buck",
   "party" : "Labour",
   "constituency" : "South Shields"
-}]
+}];
