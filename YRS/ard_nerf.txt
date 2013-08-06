@@ -1,0 +1,58 @@
+
+#include <Servo.h> 
+
+Servo servo_list[8]={};
+Serial.begin(9600);
+
+
+
+
+
+void shoot(){
+  
+  servo_list[0].write(0);
+  delay(15);
+  servo_list[0].write(60);
+  }
+
+
+void adjust(){
+  x = Serial.parseInt();
+  delay(15);
+  y = Serial.parseInt();
+  delay(15);
+  servo_list[1].write(x);
+  delay(15);
+  servo_list[2].write(y);
+  delay(15);
+  }
+
+
+
+void setup() {
+   for (int i =0;i<8;i++){
+  servo_list[i].attach(i+22);   
+  }
+  
+  
+  for (int i =0;i<8;i++){
+    
+  }
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly: 
+  
+  if (Serial.available()>0){
+    
+    adjust();
+    delay(300);
+    shoot();
+    
+    
+    
+    
+  }
+  
+}
