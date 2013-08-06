@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+		<style>
+		#content {
+			width:640px;
+			height:550px;
+			position:absolute;
+			top:50%;left:50%;
+			margin:-260px 0px 0px -320px;
+		}
+		</style>
+		<script language="JavaScript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script language="JavaScript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+		<script language="JavaScript" src="js/scriptcam.js"></script>
+		<script language="JavaScript"> 
+			$(document).ready(function() {
+				$("#webcam").scriptcam({
+					width: 640,
+        			height: 480,
+					showMicrophoneErrors:false,
+					onError:onError,
+					cornerRadius: 0,
+					cornerColor:'e3e5e2',
+					onWebcamReady:onWebcamReady,
+					onPictureAsBase64:base64_tofield_and_image
+				});
+				$("#subm").click(base64_tofield);
+			});
+			function base64_tofield() {
+				$('#formfield').val($.scriptcam.getFrameAsBase64());
+				$('#nom').val($.scriptcam.getFrameAsBase64());
+			};
+			function base64_toimage() {
+				$('#image').attr("src","data:image/png;base64,"+$.scriptcam.getFrameAsBase64());
+			};
+			function base64_tofield_and_image(b64) {
+				$('#formfield').val(b64);
+				$('#image').attr("src","data:image/png;base64,"+b64);
+			};
+			function base64_controller() {
+				$('#image').attr("src","data:image/png;base64,"+$.scriptcam.getFrameAsBase64());
+				$('#nom').val($.scriptcam.getFrameAsBase64());
+			}
+			function changeCamera() {
+				$.scriptcam.changeCamera($('#cameraNames').val());
+			}
+			function onError(errorId,errorMsg) {
+				$( "#btn1" ).attr( "disabled", true );
+				$( "#btn2" ).attr( "disabled", true );
+				alert(errorMsg);
+			}			
+			function onWebcamReady(cameraNames,camera,microphoneNames,microphone,volume) {
+				$.each(cameraNames, function(index, text) {
+					$('#cameraNames').append( $('<option></option>').val(index).html(text) )
+				}); 
+				$('#cameraNames').val(camera);
+			}
+		</script> 
+	</head>
+	<body>
+		<!-- Fixed navbar -->
+      <div class="navbar navbar-fixed-top">
+        <div class="container">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Which MPs Are <span style="color:red">Evil?</span></a>
+          <div class="nav-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li><a href="#">Home</a></li>
+              <li class="active"><a href="camera.html">Camera</a></li>
+              <li><a href="#contact">Contact</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li class="divider"></li>
+                  <li class="nav-header">Nav header</li>
+                  <li><a href="#">Separated link</a></li>
+                  <li><a href="#">One more separated link</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+	<div id="content">
+		<div>
+			<div id="webcam">
+			</div>
+			<div style="margin:5px;">
+				<select id="cameraNames" size="1" onChange="changeCamera()" style="width:300px;font-size:10px;height:28px;margin-left:170px;">
+				</select>
+			</div>
+		</div>
+		<form action="write.php" method="post">
+		<div style="width:69px;margin:auto;">
+			<p><button style="margin-top:5px" class="btn btn-small" id="btn2" onclick="base64_controller()">SNAP :-)</button></p>
+		</div>
+	</br>
+			<input style="visibility:hidden" id="nom" type="text" name="image"></input><br>
+		</form>
+	</div>
+
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+	</body>
+</html>
