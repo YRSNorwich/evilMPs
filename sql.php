@@ -12,8 +12,6 @@ $eu = $_POST["3"];
 
 $pad = "&nbsp;&nbsp;&nbsp;";
 
-echo $foxhunting;
-echo $abortion;
-echo $eu;
+echo $foxhunting+$abortion+$eu;
 
 ?>
