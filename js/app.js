@@ -19,14 +19,25 @@ function row(){
 }
 
 var items = [];
+var policy_template = _.template([
+	'<div id="<%= i %>" class="col-lg-4">',
+	'<div id="item" class="policy well" data-policy="<%= policy %>">',
+	'<p class="lead">',
+	'<%= policy %>',
+	'</p>',
+	'<div id="buttons">',
+	'<span class="label label-success"><input type="radio" name="<%= i %>" value="1"> For</input></span>',
+	'<span class="label label-default ii"><input type="radio" class="unsure" name="<%= i %>" value="0"> Unsure</input></span>',
+	'<span class="label label-danger ii"><input type="radio" name="<%= i %>" value="-1"> Against</input></span>',
+	'</div>',
+	'</div>',
+	'</div>'
+	].join(''));
 $.each(policies, function(i, pol){
-	var tr = $('#main')
-		.data('policy', pol)
-		.prepend("<div id='"+i+"' class='col-lg-4'><div id='item' class='well'><tr class='policy'><td class='policy policy-name'><p class='lead'>"+pol+"</p></td><div id='buttons'><span class='label label-success'> <input type='radio' name='"+i+"' value='1'> For</input> </span><span class='ii label label-default'> <input type='radio' class='unsure' name='+"+i+"' value='0'> Unsure</input> </span><span class='ii label label-danger'> <input type='radio' name='"+i+"' value='-1'> Against</input> </span></div></tr></div></div>")
-	items.push(tr);
+	items.push(policy_template({policy:pol,i:i}));
 });
 
-$('.policies').append(items);
+$('#main').append(items);
 
 function nthChecker(){
 	if(i>1){
@@ -46,7 +57,7 @@ function getInfoForPerson(person) {
 	});
 }
 
-$('body').on('change', '.label input:not(.unsure)', function(evt){
+$('body').on('change', 'label input:not(.unsure)', function(evt){
 	var input = $(evt.currentTarget);
 	var policy = input.parents('.policy').data('policy');
 	console.log(policy);
@@ -57,17 +68,17 @@ $('body').on('change', '.label input:not(.unsure)', function(evt){
 	var self = this;
 	console.log(angels[0].name, angels[0].member_id);
 
-	var parentElement = $(self).parent('div');
-	console.log(parentElement);
+	var parentElement = $(self).attr('name');
+	$(parentElement).append("<h1>HELLO</h1>");
 
 	$.when.apply(null, _.map(angels.concat(devils), function(angel){
 		return getInfoForPerson(angel);
 	})).then(function(){
 		console.log(angels);
-		$("<img class='ang' style='margin-left:5px' src='http://www.theyworkforyou.com/"+angels[0].image+"' />").insertAfter(parentElement);
-		$("<img class='dev' style='margin-right:5px' src='http://www.theyworkforyou.com/"+devils[0].image+"' />").insertAfter(parentElement);
+		$("<img class='ang' style='margin-left:5px' src='http://www.theyworkforyou.com/"+angels[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
+		$("<img class='dev' style='margin-right:5px' src='http://www.theyworkforyou.com/"+devils[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
 		$("<p class='devil'>"+devils[0].name+angels[0].name+"</p>");
-		$(self).closest('#buttons').find('input').attr('disabled',true);
+		$(self).closest('#buttons'+$(self).attr('name')).find('input').attr('disabled',true);
 	});
 
 });
