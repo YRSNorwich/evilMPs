@@ -24,6 +24,15 @@ margin-top:25px;
 border-radius:5px;
 height:100px;
 }
+img.ang2 {
+border:1px #84C47E solid;
+background-color:#B1DBAD;
+padding:3px;
+display:inline;
+margin-top:25px;
+border-radius:5px;
+height:400px;
+}
 img.dev {
 border:1px #FF7A7A solid;
 background-color:#FFC7C7;

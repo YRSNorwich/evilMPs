@@ -1,3 +1,6 @@
+var angel = "";
+var devil = "";
+
 // initialise by decorating each mp in the voting record with a person id
 $.each(mpdata, function(i, mp){
 	mp.person_id = _.find(directory,  function(mp_info){
@@ -66,11 +69,23 @@ $('body').on('change', '.label input:not(.unsure)', function(evt){
 	$.when.apply(null, _.map(angels.concat(devils), function(angel){
 		return getInfoForPerson(angel);
 	})).then(function(){
-		console.log(angels);
+		console.log(angels, devils);
 		$("<img title='"+angels[0].name+"' class='ang' style='margin-left:5px' src='http://www.theyworkforyou.com"+angels[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
 		$("<img title='"+devils[0].name+"' class='dev' style='margin-right:5px' src='http://www.theyworkforyou.com"+devils[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
 		$("<p class='devil'>"+devils[0].name+angels[0].name+"</p>");
 		$(self).closest('#buttons'+$(self).attr('name')).find('input').attr('disabled',true);
 	});
 
+});
+
+// mockup
+
+$('#submit').click(function(){
+	$('#main')
+	.empty()
+	.append("<img class='ang2' style='margin-left:5px' src='img/david.jpg' />")
+	.delay(2000)
+	.empty()
+	.append()
+	;
 });
