@@ -11,42 +11,34 @@ var policies = _.without(_.unique(
 	)
 ), 'name', 'person_id');
 
-function row(){
-	if(i%4 = 0){
-		$('<div class="row">').insertBefore('.col-lg-4');
-		$('</div>').insertAfter('.col-lg-4');
-	}
-}
-
 var items = [];
 var policy_template = _.template([
+	'<%= sthird %>',
 	'<div id="<%= i %>" class="col-lg-4">',
 	'<div id="item" class="policy well" data-policy="<%= policy %>">',
 	'<p class="lead">',
 	'<%= policy %>',
 	'</p>',
-	'<div id="buttons">',
+	'<div id="buttons<%= i %>">',
 	'<span class="label label-success"><input type="radio" name="<%= i %>" value="1"> For</input></span>',
 	'<span class="label label-default ii"><input type="radio" class="unsure" name="<%= i %>" value="0"> Unsure</input></span>',
 	'<span class="label label-danger ii"><input type="radio" name="<%= i %>" value="-1"> Against</input></span>',
 	'</div>',
 	'</div>',
-	'</div>'
+	'</div>',
+	'<%= ethird %>'
 	].join(''));
-$.each(policies, function(i, pol){
-	items.push(policy_template({policy:pol,i:i}));
+$.each(policies, function(i, pol, sthird, ethird){
+	function third(){
+	if(i%3 = 0){
+		var sthird = '<div id="row">';
+		var ethird = '</div>';
+			   }
+					}
+	items.push(policy_template({policy:pol,i:i,sthird:sthird,ethird:ethird}));
 });
 
 $('#main').append(items);
-
-function nthChecker(){
-	if(i>1){
-		$('.label').addClass('.labelpad');
-	}
-	else{
-
-	}
-}
 
 function getInfoForPerson(person) {
 	return $.ajax({
@@ -57,7 +49,7 @@ function getInfoForPerson(person) {
 	});
 }
 
-$('body').on('change', 'label input:not(.unsure)', function(evt){
+$('body').on('change', '.label input:not(.unsure)', function(evt){
 	var input = $(evt.currentTarget);
 	var policy = input.parents('.policy').data('policy');
 	console.log(policy);
@@ -75,8 +67,8 @@ $('body').on('change', 'label input:not(.unsure)', function(evt){
 		return getInfoForPerson(angel);
 	})).then(function(){
 		console.log(angels);
-		$("<img class='ang' style='margin-left:5px' src='http://www.theyworkforyou.com/"+angels[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
-		$("<img class='dev' style='margin-right:5px' src='http://www.theyworkforyou.com/"+devils[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
+		$("<img title='"+angels[0].name+"' class='ang' style='margin-left:5px' src='http://www.theyworkforyou.com"+angels[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
+		$("<img title='"+devils[0].name+"' class='dev' style='margin-right:5px' src='http://www.theyworkforyou.com"+devils[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
 		$("<p class='devil'>"+devils[0].name+angels[0].name+"</p>");
 		$(self).closest('#buttons'+$(self).attr('name')).find('input').attr('disabled',true);
 	});

@@ -6,12 +6,12 @@ header("Cache-Control: no-store, no-cache, must-revalidate");
 header("Cache-Control: post-check=0, pre-check=0", false);
 header("Pragma: no-cache");
 
-$foxhunting = $_POST["1"];
-$abortion = $_POST["2"];
-$eu = $_POST["3"];
+$a = $_POST["0"];
+$b = $_POST["1"];
+$c = $_POST["2"];
 
-$pad = "&nbsp;&nbsp;&nbsp;";
-
-echo $foxhunting+$abortion+$eu;
+echo $a;
+echo $b;
+echo $c;
 
 ?>
