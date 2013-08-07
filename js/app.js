@@ -33,22 +33,10 @@ $('body').on('change', '.policy input:not(.unsure)', function(evt){
 	var mps_sorted = _.reject(_.sortBy(mpdata, function(mp){ return mp[policy]; }), function(mp){ return mp[policy] === null; });
 	var angels = (input.val() === '1') ? mps_sorted.slice(-3) : mps_sorted.slice(0,3);
 	var devils = (input.val() === '1') ? mps_sorted.slice(0,3) : mps_sorted.slice(-3);
-	var imgdata = url: 'http://www.theyworkforyou.com/api/getMP?key=BWADWcCtDrAaDgyWS6A5RqZQ&id='+angels[0].member_id+'&output=js',
-
 	console.log(angels[0].name, angels[0].member_id);
 
-	$('<img class="img-rounded" src="http://www.theyworkforyou.com/images/mpsL/'+angels[0].member_id+'.jpeg" width="55" height="65" />').hide().appendTo('.policy-name').delay(50).show().toggle( "bounce", { times: 3 }, "slow" );
-
-});
-
-function checkq() {
-	var umsc = 'http://www.theyworkforyou.com/api/getMP?key=BWADWcCtDrAaDgyWS6A5RqZQ&id='+angels[0].member_id+'&output=js'
-	console.log(umsc);
-}
-
-$.ajax({
-	
-	async: false,
+	$.ajax({
+	url: 'http://www.theyworkforyou.com/api/getMP?key=BWADWcCtDrAaDgyWS6A5RqZQ&id='+angels[0].member_id+'&output=js',
 	dataType: 'json',
 	success: function (response) {
 		_.flatten(
@@ -56,6 +44,7 @@ $.ajax({
 				 )
 	}
 })
+});
 
 $.each(response, function(i, imgmp){
 	mp.member_id = _.find(directory,  function(mp_info){
