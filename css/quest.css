@@ -2,9 +2,11 @@ body {
     	padding:90px 22px 40px 22px;
 }
 #item{
-width:300px;
+margin:auto;
+width:320px;
 padding:17px 20px 30px 15px !important;
 text-align:center;
+margin-top:10px;
 }
 .ii {
 margin:0px 0px 0px 5px;
@@ -27,6 +29,15 @@ height:100px;
 img.ang2 {
 border:1px #84C47E solid;
 background-color:#B1DBAD;
+padding:3px;
+display:inline;
+margin-top:25px;
+border-radius:5px;
+height:400px;
+}
+img.dev2 {
+border:1px #FF7A7A solid;
+background-color:#FFC7C7;
 padding:3px;
 display:inline;
 margin-top:25px;
@@ -72,4 +83,25 @@ margin-left:10px!important;
 position:fixed;
 right:20px;
 bottom:20px;
+}
+#slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 240px; 
+    height: 240px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
+img.code {
+    bottom:15px;left:15px;
+    position:fixed;
 }
