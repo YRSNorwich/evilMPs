@@ -38,7 +38,7 @@ height:400px;
 width:350px;
 }
 .conimg {
-    width:1250px;
+    margin-left:250px;
     margin:auto;
 }
 img.dev2 {
@@ -115,6 +115,7 @@ img.code {
 .selectthree{
     text-align:center;
     padding-bottom:10px;
+    font-size:20px;
 }
 
 .koki {
@@ -122,6 +123,11 @@ img.code {
     width:100px;
     height:100px;
     margin-left:10px;
+}
+
+.slid {
+    font-size:40px;
+    margin-top:20px;
 }
 
 .banner { position: relative; overflow: auto; }

@@ -18,7 +18,7 @@ var policies = _.without(_.unique(
 
 var items = [];
 var policy_template = _.template([
-	'<div id="<%= i %>" class="col-lg-4">',
+	'<div id="<%= i %>">',
 	'<div id="item" class="policy well" data-policy="<%= policy %>">',
 	'<p class="lead">',
 	'<%= policy %>',
@@ -29,7 +29,7 @@ var policy_template = _.template([
 	'<span class="label label-danger ii"><input type="radio" name="<%= i %>" value="-1"> Against</input></span>',
 	'</div>',
 	'</div>',
-	'</div>',
+	'</div></br>',
 	].join(''));
 
 $.each(policies, function(i, pol, sthird, ethird){
@@ -90,12 +90,13 @@ $('#submit').click(function(){
 	var items = [];
 	for (var i = 0; i<globalImage.length; i++)
 	{
-		items.push($("<li class='conimg'><img style='margin-left:30%;' class='anon' src='http://www.theyworkforyou.com" + globalImage[i].angelImg + "'><img class='koki' src='koki/fake-2.png' /></li>"));
-		items.push($("<li class='conimg'><img style='margin-left:30%;' class='anon' src='http://www.theyworkforyou.com" + globalImage[i].devilImg + "'><img class='koki' src='koki/real-2.png' /></li>"));
+		items.push($("<li class='conimg'><img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].angelImg + "'><img class='koki' src='koki/fake-2.png' /><p class='lead slid'>" + globalImage[i].angel + "</p></li>"));
+		items.push($("<li class='conimg'><img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].devilImg + "'><img class='koki' src='koki/real-2.png' /><p class='lead slid'>" + globalImage[i].devil + "</p></li>"));
 	}
 	$('#main .banner ul').append(items);
 	$('.banner').unslider({
-		speed:10000,
+		speed:7000,
+		delay:7000,
 		fluid:false
 	});
 });
