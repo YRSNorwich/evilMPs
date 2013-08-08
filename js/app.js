@@ -1,5 +1,4 @@
-var angel = "";
-var devil = "";
+var globalImage = [];
 
 // initialise by decorating each mp in the voting record with a person id
 $.each(mpdata, function(i, mp){
@@ -16,7 +15,6 @@ var policies = _.without(_.unique(
 
 var items = [];
 var policy_template = _.template([
-	'<%= sthird %>',
 	'<div id="<%= i %>" class="col-lg-4">',
 	'<div id="item" class="policy well" data-policy="<%= policy %>">',
 	'<p class="lead">',
@@ -29,15 +27,9 @@ var policy_template = _.template([
 	'</div>',
 	'</div>',
 	'</div>',
-	'<%= ethird %>'
 	].join(''));
+
 $.each(policies, function(i, pol, sthird, ethird){
-	function third(){
-	if(i%3 = 0){
-		var sthird = '<div id="row">';
-		var ethird = '</div>';
-			   }
-					}
 	items.push(policy_template({policy:pol,i:i,sthird:sthird,ethird:ethird}));
 });
 
@@ -74,6 +66,13 @@ $('body').on('change', '.label input:not(.unsure)', function(evt){
 		$("<img title='"+devils[0].name+"' class='dev' style='margin-right:5px' src='http://www.theyworkforyou.com"+devils[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
 		$("<p class='devil'>"+devils[0].name+angels[0].name+"</p>");
 		$(self).closest('#buttons'+$(self).attr('name')).find('input').attr('disabled',true);
+		globalImage.push({
+			devil: devils[0].name,
+			devilImg: devils[0].image,
+			angel: angels[0].name,
+			angelImg: angels[0].image
+		});
+		console.log(globalImage);
 	});
 
 });
@@ -81,11 +80,11 @@ $('body').on('change', '.label input:not(.unsure)', function(evt){
 // mockup
 
 $('#submit').click(function(){
-	$('#main')
-	.empty()
-	.append("<img class='ang2' style='margin-left:5px' src='img/david.jpg' />")
-	.delay(2000)
-	.empty()
-	.append()
-	;
+	$('#main').empty();
+	for (var i = 0; i<globalImage.length; i++)
+	{
+		$('#main').append("<img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].angelImg + "'></br>");
+		$('#main').append("<img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].devilImg + "'></br>");
+	}
+
 });
