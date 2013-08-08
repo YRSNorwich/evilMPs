@@ -83,7 +83,8 @@ $('#submit').click(function(){
 	$('#main').empty();
 	for (var i = 0; i<globalImage.length; i++)
 	{
-		$('#main').append("<img class='dev2' src='http://www.theyworkforyou.com" + globalImage[i].devilImg + "'></br>");
+		$('#main').append("<img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].angelImg + "'></br>");
+		$('#main').append("<img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].devilImg + "'></br>");
 	}
 
 });
