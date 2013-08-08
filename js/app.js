@@ -1,4 +1,7 @@
 var globalImage = [];
+var countForSubmit = 0;
+
+$('#submit').attr('disabled',true);
 
 // initialise by decorating each mp in the voting record with a person id
 $.each(mpdata, function(i, mp){
@@ -61,6 +64,7 @@ $('body').on('change', '.label input:not(.unsure)', function(evt){
 	$.when.apply(null, _.map(angels.concat(devils), function(angel){
 		return getInfoForPerson(angel);
 	})).then(function(){
+		$('#submit').attr('disabled',false);
 		console.log(angels, devils);
 		$("<img title='"+angels[0].name+"' class='ang' style='margin-left:5px' src='http://www.theyworkforyou.com"+angels[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
 		$("<img title='"+devils[0].name+"' class='dev' style='margin-right:5px' src='http://www.theyworkforyou.com"+devils[0].image+"' />").insertAfter('#buttons' + $(self).attr('name'));
@@ -80,11 +84,18 @@ $('body').on('change', '.label input:not(.unsure)', function(evt){
 // mockup
 
 $('#submit').click(function(){
-	$('#main').empty();
+	$('.selectthree').fadeOut('fast');
+	$('#submit').fadeOut('slow');
+	$('#main').empty().append("<div class='banner'><ul></ul></div>");
+	var items = [];
 	for (var i = 0; i<globalImage.length; i++)
 	{
-		$('#main').append("<img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].angelImg + "'></br>");
-		$('#main').append("<img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].devilImg + "'></br>");
+		items.push($("<li class='conimg'><img style='margin-left:30%;' class='anon' src='http://www.theyworkforyou.com" + globalImage[i].angelImg + "'><img class='koki' src='koki/fake-2.png' /></li>"));
+		items.push($("<li class='conimg'><img style='margin-left:30%;' class='anon' src='http://www.theyworkforyou.com" + globalImage[i].devilImg + "'><img class='koki' src='koki/real-2.png' /></li>"));
 	}
-
+	$('#main .banner ul').append(items);
+	$('.banner').unslider({
+		speed:10000,
+		fluid:false
+	});
 });

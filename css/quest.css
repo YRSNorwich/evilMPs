@@ -33,7 +33,13 @@ padding:7px;
 display:inline;
 margin-top:25px;
 border-radius:5px;
+margin:auto;
 height:400px;
+width:350px;
+}
+.conimg {
+    width:1250px;
+    margin:auto;
 }
 img.dev2 {
 border:1px #FF7A7A solid;
@@ -105,3 +111,19 @@ img.code {
     bottom:15px;left:15px;
     position:fixed;
 }
+
+.selectthree{
+    text-align:center;
+    padding-bottom:10px;
+}
+
+.koki {
+    z-index:999;
+    width:100px;
+    height:100px;
+    margin-left:10px;
+}
+
+.banner { position: relative; overflow: auto; }
+    .banner li { list-style: none; }
+        .banner ul li { float: left; }
