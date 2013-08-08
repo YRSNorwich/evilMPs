@@ -1,3 +1,23 @@
+/*
+
+
+___              __                        __         
+ | |_ . _  . _  /   _  _  _  _ _ |_ _ _|  /   _  _| _ 
+ | | )|_)  |_)  \__(_)||||||(-| )|_(-(_|  \__(_)(_|(- 
+                                                      
+ __                                                       
+|__)| _ _  _ _   _ _ _  _|  |_|_  _   _ _  _  _  _ _ |_ _ 
+|   |(-(_|_)(-  | (-(_|(_|  |_| )(-  (_(_)||||||(-| )|__) 
+                                                          
+ __                                                       
+|__) _ _   |__| _ || _     _                              
+|__)(-| )  |  |(_)||(_)\)/(_|\/                           
+                             / 
+
+
+
+*/
+
 var globalImage = [];
 var countForSubmit = 0;
 
@@ -24,9 +44,9 @@ var policy_template = _.template([
 	'<%= policy %>',
 	'</p>',
 	'<div id="buttons<%= i %>">',
-	'<span class="label label-success"><input type="radio" name="<%= i %>" value="1"> For</input></span>',
-	'<span class="label label-default ii"><input type="radio" class="unsure" name="<%= i %>" value="0"> Unsure</input></span>',
-	'<span class="label label-danger ii"><input type="radio" name="<%= i %>" value="-1"> Against</input></span>',
+	'<label class="selcn"><span class="label label-success"><input type="radio" name="<%= i %>" value="1"> For</input></span></label>',
+	'<label class="selcn"><span class="label label-default ii"><input type="radio" class="unsure" name="<%= i %>" value="0"> Unsure</input></span></label>',
+	'<label class="selcn"><span class="label label-danger ii"><input type="radio" name="<%= i %>" value="-1"> Against</input></span></label>',
 	'</div>',
 	'</div>',
 	'</div></br>',
@@ -47,7 +67,9 @@ function getInfoForPerson(person) {
 	});
 }
 
-$('body').on('change', '.label input:not(.unsure)', function(evt){
+// .selcn is a label selector which is written out in the template. Josh suggested it so that you can select the span as well making it easier
+
+$('body').on('change', '.selcn input:not(.unsure)', function(evt){
 	var input = $(evt.currentTarget);
 	var policy = input.parents('.policy').data('policy');
 	console.log(policy);
@@ -81,7 +103,7 @@ $('body').on('change', '.label input:not(.unsure)', function(evt){
 
 });
 
-// mockup
+// jQuery slider
 
 $('#submit').click(function(){
 	$('.selectthree').fadeOut('fast');
@@ -94,6 +116,9 @@ $('#submit').click(function(){
 		items.push($("<li class='conimg'><img class='anon' src='http://www.theyworkforyou.com" + globalImage[i].devilImg + "'><img class='koki' src='koki/real-2.png' /><p class='lead slid'>" + globalImage[i].devil + "</p></li>"));
 	}
 	$('#main .banner ul').append(items);
+	// Setting the speed and delay of the slider
+	// Speed = transition speed
+	// Delay = time it stays still between transitions
 	$('.banner').unslider({
 		speed:7000,
 		delay:7000,
