@@ -1,0 +1,38 @@
+body {
+	padding-right:30px;
+	padding-left:30px;
+	padding-bottom:30px;
+}
+#main_content {
+	margin-top:80px;
+}
+p.name {
+	font-size:3em;
+	text-align:center;
+}
+#img {
+	width:300px;
+	height:200px;
+	margin:30px auto 30px auto;
+}
+#evilness_rating {
+	max-width:666px;
+	margin:auto;
+}
+h3.evilness {
+	text-align:center;
+	color:#E00000;
+}
+#table_main {
+	margin:auto;
+	max-width:800px;
+	margin-top:50px;
+}
+b.evil {
+	color:#E00000;
+	font-size:19px;
+}
+b.good {
+	color:#69bf6a;
+	font-size:19px;
+}
